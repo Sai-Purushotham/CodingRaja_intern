@@ -1,2 +1,2 @@
-# CodingRaja_intern
-Project for 1MTH internship at CodingRaja Technologies 
+# CodingRaja_intern 
+Here's my Coding raja technologies internship task 2 i.e, Music player 
